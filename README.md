@@ -82,3 +82,31 @@ Tech-Interview-Questions offers a structured approach to interview prep, coverin
 | Linked Lists | Add Two Numbers                   | [Link](https://leetcode.com/problems/add-two-numbers/) | Medium            | 2022 | 7                   |
 
 </Details>
+
+<Details> <summary> <h2>Stack</h2></summary>
+
+| Topic | Question Name | Link | Level of Question | Year | Number of Companies |
+|--------|------------------------------------------|--------------------------------------------------------|-------------------|------|---------------------|
+| Stack | Valid Parentheses                        | [Link](https://leetcode.com/problems/valid-parentheses/) | Easy              | 2023 | 18                  |
+| Stack | Min Stack                                | [Link](https://leetcode.com/problems/min-stack/) | Easy              | 2022 | 17                  |
+| Stack | Evaluate Reverse Polish Notation         | [Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium            | 2021 | 16                  |
+| Stack | Next Greater Element                     | [Link](https://leetcode.com/problems/next-greater-element-i/) | Medium            | 2023 | 15                  |
+| Stack | Remove All Adjacent Duplicates in String| [Link](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy              | 2022 | 15                  |
+| Stack | Implement Stack using Queues            | [Link](https://leetcode.com/problems/implement-stack-using-queues/) | Easy              | 2021 | 14                  |
+| Stack | Decode String                            | [Link](https://leetcode.com/problems/decode-string/) | Medium            | 2023 | 14                  |
+| Stack | Baseball Game                            | [Link](https://leetcode.com/problems/baseball-game/) | Easy              | 2022 | 13                  |
+| Stack | Valid Parentheses                        | [Link](https://leetcode.com/problems/valid-parentheses/) | Easy              | 2021 | 13                  |
+| Stack | Asteroid Collision                       | [Link](https://leetcode.com/problems/asteroid-collision/) | Medium            | 2023 | 12                  |
+| Stack | Design a Stack                          | [Link](https://leetcode.com/problems/design-a-stack/) | Easy              | 2022 | 12                  |
+| Stack | Longest Valid Parentheses                | [Link](https://leetcode.com/problems/longest-valid-parentheses/) | Hard              | 2021 | 11                  |
+| Stack | Remove Outermost Parentheses            | [Link](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy            | 2023 | 11                  |
+| Stack | Online Stock Span                       | [Link](https://leetcode.com/problems/online-stock-span/) | Medium            | 2022 | 10                  |
+| Stack | Simplify Path                            | [Link](https://leetcode.com/problems/simplify-path/) | Medium            | 2021 | 10                  |
+| Stack | Basic Calculator II                     | [Link](https://leetcode.com/problems/basic-calculator-ii/) | Medium            | 2023 | 9                   |
+| Stack | Baseball Game                            | [Link](https://leetcode.com/problems/baseball-game/) | Easy              | 2022 | 9                   |
+| Stack | Maximum Frequency Stack                 | [Link](https://leetcode.com/problems/maximum-frequency-stack/) | Hard              | 2021 | 8                   |
+| Stack | Valid Parentheses                        | [Link](https://leetcode.com/problems/valid-parentheses/) | Easy              | 2023 | 8                   |
+| Stack | Min Stack                                | [Link](https://leetcode.com/problems/min-stack/) | Easy              | 2022 | 7                   |
+
+</Details>
+
