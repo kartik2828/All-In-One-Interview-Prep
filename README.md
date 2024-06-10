@@ -142,26 +142,25 @@ Tech-Interview-Questions offers a structured approach to interview prep, coverin
 
 | Topic     | Question Name                              | Link                                                 | Level of Question | Year | Number of Companies |
 |-----------|--------------------------------------------|------------------------------------------------------|-------------------|------|---------------------|
-| Recursion | Fibonacci Sequence                         | [Link](https://example.com/fibonacci-sequence)       | Easy              | 2023 | 18                  |
-| Recursion | Factorial                                  | [Link](https://example.com/factorial)                | Easy              | 2022 | 17                  |
-| Recursion | Sum of Digits of a Number                  | [Link](https://example.com/sum-digits-number)        | Easy              | 2021 | 16                  |
-| Recursion | Tower of Hanoi                             | [Link](https://example.com/tower-hanoi)              | Medium            | 2023 | 15                  |
-| Recursion | Binary Search                              | [Link](https://example.com/binary-search)            | Medium            | 2022 | 14                  |
-| Recursion | Reverse a String                           | [Link](https://example.com/reverse-string)           | Easy              | 2021 | 14                  |
-| Recursion | Merge Sort                                 | [Link](https://example.com/merge-sort)               | Medium            | 2023 | 13                  |
-| Recursion | Palindrome Check                           | [Link](https://example.com/palindrome-check)         | Easy              | 2022 | 13                  |
-| Recursion | Power of a Number                          | [Link](https://example.com/power-number)             | Medium            | 2021 | 12                  |
-| Recursion | Print all Subsets of a Set                | [Link](https://example.com/print-subsets-set)       | Hard              | 2023 | 12                  |
-| Recursion | Calculate GCD (Greatest Common Divisor)   | [Link](https://example.com/calculate-gcd)            | Easy              | 2022 | 11                  |
-| Recursion | Counting Paths in a Grid                  | [Link](https://example.com/count-paths-grid)        | Medium            | 2021 | 11                  |
-| Recursion | Permutations of a String                  | [Link](https://example.com/permutations-string)     | Medium            | 2023 | 10                  |
-| Recursion | Subset Sum                                 | [Link](https://example.com/subset-sum)              | Medium            | 2022 | 10                  |
-| Recursion | Calculate Power Set                        | [Link](https://example.com/calculate-power-set)      | Hard              | 2021 | 10                  |
-| Recursion | Print all Possible Combinations of r Elements in a Given Array | [Link](https://example.com/print-combinations-array) | Medium | 2023 | 9                   |
-| Recursion | Count Inversions in an Array              | [Link](https://example.com/count-inversions-array)  | Hard              | 2022 | 9                   |
-| Recursion | Generate all Subarrays of an Array        | [Link](https://example.com/generate-subarrays)      | Medium            | 2021 | 8                   |
-| Recursion | Calculate nth Fibonacci Number           | [Link](https://example.com/nth-fibonacci-number)    | Easy              | 2023 | 8                   |
-| Recursion | Print Pascal's Triangle                 | [Link](https://example.com/print-pascals-triangle)  | Medium            | 2022 | 7                   |
-
+| Recursion | Fibonacci Sequence                         | [Link](https://leetcode.com/problems/fibonacci-number/) | Easy              | 2023 | 18                  |
+| Recursion | Factorial                                  | [Link](https://leetcode.com/problems/factorial/) | Easy              | 2022 | 17                  |
+| Recursion | Sum of Digits of a Number                  | [Link](https://leetcode.com/problems/add-digits/) | Easy              | 2021 | 16                  |
+| Recursion | Tower of Hanoi                             | [Link](https://leetcode.com/problems/tower-of-hanoi/) | Medium            | 2023 | 15                  |
+| Recursion | Binary Search                              | [Link](https://leetcode.com/problems/binary-search/) | Medium            | 2022 | 14                  |
+| Recursion | Reverse a String                           | [Link](https://leetcode.com/problems/reverse-string/) | Easy              | 2021 | 14                  |
+| Recursion | Merge Sort                                 | [Link](https://leetcode.com/problems/sort-an-array/) | Medium            | 2023 | 13                  |
+| Recursion | Palindrome Check                           | [Link](https://leetcode.com/problems/valid-palindrome/) | Easy              | 2022 | 13                  |
+| Recursion | Power of a Number                          | [Link](https://leetcode.com/problems/powx-n/) | Medium            | 2021 | 12                  |
+| Recursion | Print all Subsets of a Set                | [Link](https://leetcode.com/problems/subsets/) | Hard              | 2023 | 12                  |
+| Recursion | Calculate GCD (Greatest Common Divisor)   | [Link](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy              | 2022 | 11                  |
+| Recursion | Counting Paths in a Grid                  | [Link](https://leetcode.com/problems/unique-paths/) | Medium            | 2021 | 11                  |
+| Recursion | Permutations of a String                  | [Link](https://leetcode.com/problems/permutations/) | Medium            | 2023 | 10                  |
+| Recursion | Subset Sum                                 | [Link](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium            | 2022 | 10                  |
+| Recursion | Calculate Power Set                        | [Link](https://leetcode.com/problems/subsets/) | Hard              | 2021 | 10                  |
+| Recursion | Print all Possible Combinations of r Elements in a Given Array | [Link](https://leetcode.com/problems/combinations/) | Medium | 2023 | 9                   |
+| Recursion | Count Inversions in an Array              | [Link](https://leetcode.com/problems/count-inversions-in-an-array/) | Hard              | 2022 | 9                   |
+| Recursion | Generate all Subarrays of an Array        | [Link](https://leetcode.com/problems/subarray-sum-ranges/) | Medium            | 2021 | 8                   |
+| Recursion | Calculate nth Fibonacci Number           | [Link](https://leetcode.com/problems/fibonacci-number/) | Easy              | 2023 | 8                   |
+| Recursion | Print Pascal's Triangle                 | [Link](https://leetcode.com/problems/pascals-triangle/) | Medium            | 2022 | 7                   |
 </Details>
 
