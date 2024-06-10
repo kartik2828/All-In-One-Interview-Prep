@@ -113,30 +113,28 @@ Tech-Interview-Questions offers a structured approach to interview prep, coverin
 
 <Details> <summary> <h2>Queues</h2></summary>
 
-
-| Topic  | Question Name                              | Link                                                     | Level of Question | Year | Number of Companies |
+| Topic | Question Name | Link | Level of Question | Year | Number of Companies |
 |--------|--------------------------------------------|----------------------------------------------------------|-------------------|------|---------------------|
-| Queue  | Design Circular Queue                      | [Link](https://example.com/design-circular-queue)        | Medium            | 2023 | 17                  |
-| Queue  | Implement Stack using Queues               | [Link](https://example.com/implement-stack-queues)        | Easy              | 2022 | 16                  |
-| Queue  | Implement Queue using Stacks               | [Link](https://example.com/implement-queue-stacks)        | Easy              | 2021 | 15                  |
-| Queue  | Design Circular Deque                      | [Link](https://example.com/design-circular-deque)         | Medium            | 2023 | 15                  |
-| Queue  | Design a Queue using Stacks               | [Link](https://example.com/design-queue-stacks)            | Easy              | 2022 | 14                  |
-| Queue  | First Unique Character in a String        | [Link](https://example.com/first-unique-character)        | Easy              | 2021 | 14                  |
-| Queue  | Number of Recent Calls                   | [Link](https://example.com/number-recent-calls)            | Easy              | 2023 | 13                  |
-| Queue  | Implement Stack using Queues              | [Link](https://example.com/implement-stack-queues)         | Easy              | 2022 | 13                  |
-| Queue  | Design a Circular Queue                  | [Link](https://example.com/design-circular-queue)         | Medium            | 2021 | 12                  |
-| Queue  | Moving Average from Data Stream           | [Link](https://example.com/moving-average-data-stream)     | Easy              | 2023 | 12                  |
-| Queue  | Design Hit Counter                       | [Link](https://example.com/design-hit-counter)             | Medium            | 2022 | 11                  |
-| Queue  | Design Circular Deque                    | [Link](https://example.com/design-circular-deque)          | Medium            | 2021 | 11                  |
-| Queue  | My Circular Queue                        | [Link](https://example.com/my-circular-queue)              | Medium            | 2023 | 10                  |
-| Queue  | Implement Queue using Stacks             | [Link](https://example.com/implement-queue-stacks)         | Easy              | 2022 | 10                  |
-| Queue  | Queue Reconstruction by Height           | [Link](https://example.com/queue-reconstruction-height)    | Medium            | 2021 | 10                  |
-| Queue  | Moving Average from Data Stream          | [Link](https://example.com/moving-average-data-stream)     | Easy              | 2023 | 9                   |
-| Queue  | Design Hit Counter                      | [Link](https://example.com/design-hit-counter)             | Medium            | 2022 | 9                   |
-| Queue  | Design Circular Deque                   | [Link](https://example.com/design-circular-deque)          | Medium            | 2021 | 8                   |
-| Queue  | Implement Stack using Queues            | [Link](https://example.com/implement-stack-queues)         | Easy              | 2023 | 8                   |
-| Queue  | Implement Queue using Stacks            | [Link](https://example.com/implement-queue-stacks)         | Easy              | 2022 | 7                   |
-
+| Queue | Design Circular Queue                      | [Link](https://leetcode.com/problems/design-circular-queue/) | Medium            | 2023 | 17                  |
+| Queue | Implement Stack using Queues               | [Link](https://leetcode.com/problems/implement-stack-using-queues/) | Easy              | 2022 | 16                  |
+| Queue | Implement Queue using Stacks               | [Link](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy              | 2021 | 15                  |
+| Queue | Design Circular Deque                      | [Link](https://leetcode.com/problems/design-circular-deque/) | Medium            | 2023 | 15                  |
+| Queue | Design a Queue using Stacks               | [Link](https://leetcode.com/problems/design-queue-using-stacks/) | Easy              | 2022 | 14                  |
+| Queue | First Unique Character in a String        | [Link](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy              | 2021 | 14                  |
+| Queue | Number of Recent Calls                   | [Link](https://leetcode.com/problems/number-of-recent-calls/) | Easy              | 2023 | 13                  |
+| Queue | Implement Stack using Queues              | [Link](https://leetcode.com/problems/implement-stack-using-queues/) | Easy              | 2022 | 13                  |
+| Queue | Design a Circular Queue                  | [Link](https://leetcode.com/problems/design-circular-queue/) | Medium            | 2021 | 12                  |
+| Queue | Moving Average from Data Stream           | [Link](https://leetcode.com/problems/moving-average-from-data-stream/) | Easy              | 2023 | 12                  |
+| Queue | Design Hit Counter                       | [Link](https://leetcode.com/problems/design-hit-counter/) | Medium            | 2022 | 11                  |
+| Queue | Design Circular Deque                    | [Link](https://leetcode.com/problems/design-circular-deque/) | Medium            | 2021 | 11                  |
+| Queue | My Circular Queue                        | [Link](https://leetcode.com/problems/my-circular-queue/) | Medium            | 2023 | 10                  |
+| Queue | Implement Queue using Stacks             | [Link](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy              | 2022 | 10                  |
+| Queue | Queue Reconstruction by Height           | [Link](https://leetcode.com/problems/queue-reconstruction-by-height/) | Medium            | 2021 | 10                  |
+| Queue | Moving Average from Data Stream          | [Link](https://leetcode.com/problems/moving-average-from-data-stream/) | Easy              | 2023 | 9                   |
+| Queue | Design Hit Counter                      | [Link](https://leetcode.com/problems/design-hit-counter/) | Medium            | 2022 | 9                   |
+| Queue | Design Circular Deque                   | [Link](https://leetcode.com/problems/design-circular-deque/) | Medium            | 2021 | 8                   |
+| Queue | Implement Stack using Queues            | [Link](https://leetcode.com/problems/implement-stack-using-queues/) | Easy              | 2023 | 8                   |
+| Queue | Implement Queue using Stacks            | [Link](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy              | 2022 | 7                   |
 </Details>
 
 
