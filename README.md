@@ -1,6 +1,7 @@
 # All-In-One-Interview-Prep
 Tech-Interview-Questions offers a structured approach to interview prep, covering topics like arrays, linked lists, recursion, stacks, queues, trees, graphs, dynamic programming, sorting, and searching. Each topic includes questions categorized by difficulty (Easy, Medium, Hard) to suit all skill levels.
 
+# Best for upto 12 LPA 
 
 <Details> <summary> <h2>Array</h2></summary>
 
@@ -137,3 +138,32 @@ Tech-Interview-Questions offers a structured approach to interview prep, coverin
 | Queue  | Implement Queue using Stacks            | [Link](https://example.com/implement-queue-stacks)         | Easy              | 2022 | 7                   |
 
 </Details>
+
+
+<Details> <summary> <h2>Recusion</h2></summary>
+
+| Topic     | Question Name                              | Link                                                 | Level of Question | Year | Number of Companies |
+|-----------|--------------------------------------------|------------------------------------------------------|-------------------|------|---------------------|
+| Recursion | Fibonacci Sequence                         | [Link](https://example.com/fibonacci-sequence)       | Easy              | 2023 | 18                  |
+| Recursion | Factorial                                  | [Link](https://example.com/factorial)                | Easy              | 2022 | 17                  |
+| Recursion | Sum of Digits of a Number                  | [Link](https://example.com/sum-digits-number)        | Easy              | 2021 | 16                  |
+| Recursion | Tower of Hanoi                             | [Link](https://example.com/tower-hanoi)              | Medium            | 2023 | 15                  |
+| Recursion | Binary Search                              | [Link](https://example.com/binary-search)            | Medium            | 2022 | 14                  |
+| Recursion | Reverse a String                           | [Link](https://example.com/reverse-string)           | Easy              | 2021 | 14                  |
+| Recursion | Merge Sort                                 | [Link](https://example.com/merge-sort)               | Medium            | 2023 | 13                  |
+| Recursion | Palindrome Check                           | [Link](https://example.com/palindrome-check)         | Easy              | 2022 | 13                  |
+| Recursion | Power of a Number                          | [Link](https://example.com/power-number)             | Medium            | 2021 | 12                  |
+| Recursion | Print all Subsets of a Set                | [Link](https://example.com/print-subsets-set)       | Hard              | 2023 | 12                  |
+| Recursion | Calculate GCD (Greatest Common Divisor)   | [Link](https://example.com/calculate-gcd)            | Easy              | 2022 | 11                  |
+| Recursion | Counting Paths in a Grid                  | [Link](https://example.com/count-paths-grid)        | Medium            | 2021 | 11                  |
+| Recursion | Permutations of a String                  | [Link](https://example.com/permutations-string)     | Medium            | 2023 | 10                  |
+| Recursion | Subset Sum                                 | [Link](https://example.com/subset-sum)              | Medium            | 2022 | 10                  |
+| Recursion | Calculate Power Set                        | [Link](https://example.com/calculate-power-set)      | Hard              | 2021 | 10                  |
+| Recursion | Print all Possible Combinations of r Elements in a Given Array | [Link](https://example.com/print-combinations-array) | Medium | 2023 | 9                   |
+| Recursion | Count Inversions in an Array              | [Link](https://example.com/count-inversions-array)  | Hard              | 2022 | 9                   |
+| Recursion | Generate all Subarrays of an Array        | [Link](https://example.com/generate-subarrays)      | Medium            | 2021 | 8                   |
+| Recursion | Calculate nth Fibonacci Number           | [Link](https://example.com/nth-fibonacci-number)    | Easy              | 2023 | 8                   |
+| Recursion | Print Pascal's Triangle                 | [Link](https://example.com/print-pascals-triangle)  | Medium            | 2022 | 7                   |
+
+</Details>
+
