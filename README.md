@@ -55,3 +55,30 @@ Tech-Interview-Questions offers a structured approach to interview prep, coverin
 | Strings | Palindrome Partitioning II        | [Link](https://leetcode.com/problems/palindrome-partitioning-ii/) | Hard   | 2021 | 8                   |
 
 </Details>
+
+<Details> <summary> <h2>Linkedlist</h2></summary>
+  
+| Topic        | Question Name                      | Link | Level of Question | Year | Number of Companies |
+|--------------|------------------------------------|--------------------------------------------|-------------------|------|---------------------|
+| Linked Lists | Reverse Linked List                | [Link](https://leetcode.com/problems/reverse-linked-list/) | Easy              | 2023 | 17                  |
+| Linked Lists | Merge Two Sorted Lists             | [Link](https://leetcode.com/problems/merge-two-sorted-lists/) | Medium            | 2022 | 16                  |
+| Linked Lists | Remove Nth Node From End of List   | [Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium            | 2021 | 15                  |
+| Linked Lists | Linked List Cycle                  | [Link](https://leetcode.com/problems/linked-list-cycle/) | Medium            | 2023 | 15                  |
+| Linked Lists | Intersection of Two Linked Lists  | [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Medium       | 2022 | 14                  |
+| Linked Lists | Palindrome Linked List            | [Link](https://leetcode.com/problems/palindrome-linked-list/) | Easy           | 2021 | 14                  |
+| Linked Lists | Flatten a Multilevel Doubly Linked List | [Link](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | Hard           | 2023 | 13              |
+| Linked Lists | Add Two Numbers II                | [Link](https://leetcode.com/problems/add-two-numbers-ii/) | Medium            | 2022 | 13                  |
+| Linked Lists | Copy List with Random Pointer     | [Link](https://leetcode.com/problems/copy-list-with-random-pointer/) | Hard               | 2021 | 12                  |
+| Linked Lists | Reverse Nodes in k-Group          | [Link](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard           | 2023 | 12                  |
+| Linked Lists | Odd Even Linked List              | [Link](https://leetcode.com/problems/odd-even-linked-list/) | Medium            | 2022 | 11                  |
+| Linked Lists | Remove Duplicates from Sorted List| [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy        | 2021 | 11                  |
+| Linked Lists | Insertion Sort List               | [Link](https://leetcode.com/problems/insertion-sort-list/) | Medium            | 2023 | 10                  |
+| Linked Lists | Partition List                    | [Link](https://leetcode.com/problems/partition-list/) | Medium            | 2022 | 10                  |
+| Linked Lists | Swap Nodes in Pairs               | [Link](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium            | 2021 | 10                  |
+| Linked Lists | Remove Linked List Elements       | [Link](https://leetcode.com/problems/remove-linked-list-elements/) | Easy     | 2023 | 9                   |
+| Linked Lists | Reverse Linked List II            | [Link](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium         | 2022 | 9                   |
+| Linked Lists | Design Linked List                | [Link](https://leetcode.com/problems/design-linked-list/) | Medium            | 2021 | 8                   |
+| Linked Lists | Intersection of Two Linked Lists  | [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy         | 2023 | 8                   |
+| Linked Lists | Add Two Numbers                   | [Link](https://leetcode.com/problems/add-two-numbers/) | Medium            | 2022 | 7                   |
+
+</Details>
