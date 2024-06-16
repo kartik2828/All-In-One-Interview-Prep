@@ -1,6 +1,8 @@
 # All-In-One-Interview-Prep
 Tech-Interview-Questions offers a structured approach to interview prep, covering topics like arrays, linked lists, recursion, stacks, queues, trees, graphs, dynamic programming, sorting, and searching. Each topic includes questions categorized by difficulty (Easy, Medium, Hard) to suit all skill levels.
 
+<h3>I'll provide all of the array solutions links by June 20th, and all of the links will shortly function. Keep checking back!</h3>
+
 Feel free to contribute to this repository by adding your own coding questions or improvements to existing ones!
 
 <Details> <summary> <h2>Array</h2></summary>
