@@ -13,7 +13,7 @@ Feel free to contribute to this repository by adding your own coding questions o
 | Arrays | Best Time to Buy and Sell Stock    | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Medium            | 2022 | 18                  |
 | Arrays | Product of Array Except Self       | [Link](https://leetcode.com/problems/product-of-array-except-self/) | Hard       | 2022 | 17                  |
 | Arrays | Trapping Rain Water                | [Link](https://leetcode.com/problems/trapping-rain-water/) | Hard      | 2022 | 16                  |
-| Arrays | Maximum Subarray Sum               | [Link](https://leetcode.com/problems/maximum-subarray-sum/)   | Medium            | 2023 | 15                  |
+| Arrays | Maximum Subarray Sum               | [Link](https://leetcode.com/problems/maximum-subarray/description/)   | Medium            | 2023 | 15                  |
 | Arrays | 3Sum                               | [Link](https://leetcode.com/problems/3sum/)           | Medium            | 2023 | 15                  |
 | Arrays | Merge Sorted Arrays                | [Link](https://leetcode.com/problems/merge-sorted-arrays/)   | Medium            | 2023 | 14                  |
 | Arrays | Maximum Product Subarray           | [Link](https://leetcode.com/problems/maximum-product-subarray/) | Medium  | 2023 | 14                  |
